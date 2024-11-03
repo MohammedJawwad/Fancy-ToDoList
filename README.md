@@ -34,10 +34,10 @@ npm run dev
 ```
 5. Screenshots
 - Homepage
-![Homepage](public/images/homepage.png)
+![Homepage](todo1.png)
 
-- Homepage
-![Homepage](public/images/homepage.png)
+- Create List
+![Create List](todo2.png)
 
 
 6. Contributing
