@@ -17,7 +17,7 @@ A sleek and interactive to-do list application built with **React**, powered by 
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/yourusername/fancy-todo-list.git
 ```
 2. Navigate to the project directory:
