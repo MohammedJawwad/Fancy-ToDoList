@@ -33,7 +33,11 @@ npm install
 npm run dev
 ```
 5. Screenshots
+- Homepage
+![Homepage](public/images/homepage.png)
 
+- Homepage
+![Homepage](public/images/homepage.png)
 
 
 6. Contributing
