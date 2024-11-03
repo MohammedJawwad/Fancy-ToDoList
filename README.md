@@ -16,32 +16,35 @@ A sleek and interactive to-do list application built with **React**, powered by 
 
 ## Getting Started
 
-1. Clone the repository:
+## 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/fancy-todo-list.git
+   git clone https://github.com/MohammedJawwad/fancy-todo-list.git
 ```
-2. Navigate to the project directory:
+## 2. Navigate to the project directory:
  ```bash
 cd fancy-todo-list
  ```
-3. Install dependencies:
+## 3. Install dependencies:
 ```bash
 npm install
 ```
-4. Run the app:
+## 4. Run the app:
 ```bash
 npm run dev
 ```
-5. Screenshots
-- Homepage
+## 5. Screenshots:
+
+- **Homepage**
 ![Homepage](todo1.png)
 
-- Create List
+- **Create List**
 ![Create List](todo2.png)
 
 
-6. Contributing
+## 6. Contributing:
+
 Feel free to open issues or submit pull requests to enhance the app.
 
-7. License
+## 7. License:
+
 This project is licensed under the MIT License.
